@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+<string name="app_name">Fifteen Puzzle</string>
+<string name="restart">New Game</string>
+<string name="about_title">About Fifteen Puzzle</string>
+<string name="about_content">about content</string>
+<color name="button_color">#ff292524</color>
+<color name="text_color">#ffa7baa0</color>
+<string name="win_text">Game Over </string>
+<string name="win_title">Fifteen Puzzle</string>
+</resources>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/Table" android:layout_height="fill_parent"
+	android:layout_width="fill_parent" android:fitsSystemWindows="true">
+	<TableRow android:id="@+id/Row1" android:layout_height="wrap_content"
+		android:layout_width="wrap_content">
+		<ImageButton android:id="@+id/Button0"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			  android:width="75px" android:background="@color/button_color"
+			android:textColor="@color/text_color" android:padding="1dip"></ImageButton>
+		<ImageButton android:id="@+id/Button1"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			  android:width="75px" android:background="@color/button_color"
+			android:textColor="@color/text_color" android:padding="1dip"  ></ImageButton>
+		<ImageButton android:id="@+id/Button2"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			  android:width="75px" android:background="@color/button_color"
+			android:textColor="@color/text_color" android:padding="1dip"  ></ImageButton>
+		<ImageButton android:id="@+id/Button3"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			  android:width="75px" android:background="@color/button_color"
+			android:textColor="@color/text_color" android:padding="1dip"  ></ImageButton>
+	</TableRow>
+	<TableRow android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:id="@+id/Row2">
+		<ImageButton android:id="@+id/Button4"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			  android:width="75px" android:background="@color/button_color"
+			android:textColor="@color/text_color" android:padding="1dip"  ></ImageButton>
+		<ImageButton android:id="@+id/Button5"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			  android:width="75px" android:background="@color/button_color"
+			android:textColor="@color/text_color" android:padding="1dip"  ></ImageButton>
+		<ImageButton android:id="@+id/Button6"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			  android:width="75px" android:background="@color/button_color"
+			android:textColor="@color/text_color" android:padding="1dip"  ></ImageButton>
+		<ImageButton android:id="@+id/Button7"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			  android:width="75px" android:background="@color/button_color"
+			android:textColor="@color/text_color" android:padding="1dip"  ></ImageButton>
+	</TableRow>
+	<TableRow android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:id="@+id/Row3">
+		<ImageButton android:id="@+id/Button8"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			  android:width="75px" android:background="@color/button_color"
+			android:textColor="@color/text_color" android:padding="1dip"  ></ImageButton>
+		<ImageButton android:id="@+id/Button9"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			  android:width="75px" android:background="@color/button_color"
+			android:textColor="@color/text_color" android:padding="1dip"  ></ImageButton>
+		<ImageButton android:id="@+id/Button10"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			  android:width="75px" android:background="@color/button_color"
+			android:textColor="@color/text_color" android:padding="1dip"  ></ImageButton>
+		<ImageButton android:id="@+id/Button11"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			  android:width="75px" android:background="@color/button_color"
+			android:textColor="@color/text_color" android:padding="1dip"  ></ImageButton>
+	</TableRow>
+	<TableRow android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:id="@+id/Row4">
+		<ImageButton android:id="@+id/Button12"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			  android:width="75px" android:background="@color/button_color"
+			android:textColor="@color/text_color" android:padding="1dip"  ></ImageButton>
+		<ImageButton android:id="@+id/Button13"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			  android:width="75px" android:background="@color/button_color"
+			android:textColor="@color/text_color" android:padding="1dip"  ></ImageButton>
+		<ImageButton android:id="@+id/Button14"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:width="75px" android:background="@color/button_color"
+			android:textColor="@color/text_color" android:padding="1dip"  ></ImageButton>
+		<ImageButton android:id="@+id/Button15"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:width="75px" android:background="@color/button_color"
+			android:textColor="@color/text_color" android:padding="1dip"  ></ImageButton>
+
+	</TableRow>
+
+</TableLayout>
